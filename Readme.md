@@ -1,3 +1,4 @@
+# Execute sql in ecommerce_backend or execute migrations app
 
 # Activate for Configuration the migrations
 spring.jpa.hibernate.ddl-auto=create
